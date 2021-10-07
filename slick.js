@@ -50,12 +50,12 @@
                 autoplaySpeed: 3000,
                 centerMode: false,
                 centerPadding: '50px',
-                // cssEase: 'ease',
+                cssEase: 'ease',
                 customPaging: function(slider, i) {
                     return $('<button type="button" />').text(i + 1);
                 },
-                // dots: false,
-                // dotsClass: 'slick-dots',
+                dots: false,
+                dotsClass: 'slick-dots',
                 draggable: true,
                 easing: 'linear',
                 edgeFriction: 0.35,

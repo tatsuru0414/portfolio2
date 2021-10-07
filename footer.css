@@ -1,0 +1,11 @@
+footer {
+  margin-top: 5em;
+  line-height: 1.65em;
+  padding: 1em;
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+}
+footer .f_link a {
+  color: #fff;
+}

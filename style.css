@@ -148,7 +148,7 @@ body {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(../img/bg01.jpg) center no-repeat;
+  background:url("bg01.jpg") center no-repeat;
   background-size:cover;
 }
 
@@ -777,7 +777,7 @@ td {
   }
 
   .sec_13 {
-    background: #ffff url(../img/bg_01.jpg) no-repeat center top;
+    background: #ffff url("bg_01.jpg") no-repeat center top;
     background-attachment: fixed;
   }
   .sec_13 .box_1 {
@@ -803,7 +803,7 @@ td {
     content: '';
     width: 44px;
     height: 44px;
-    background: url(../img/cnr_1.png) no-repeat center top;
+    background: url("cnr_1.png") no-repeat center top;
     background-size: 100% auto;
     top: 0;
     right: 0;
@@ -1148,7 +1148,7 @@ p:last-child {
   animation-timing-function: ease-out;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background: url(../img/down.png) no-repeat center top;
+  background: url("down.png") no-repeat center top;
 }
 
 .t_1 {
@@ -1509,7 +1509,7 @@ footer .f_link a {
 }
 .f_box_2 .fig {
   width: 40%;
-  background: url(../img/prof_img_1.png) no-repeat center top;
+  background: url("prof_img_1.png") no-repeat center top;
 }
 .f_box_2 .txt {
   width: 55%;
@@ -1528,7 +1528,7 @@ footer .f_link a {
 }
 .f_box_3 .fig {
   width: 40%;
-  background: url(../img/prof_img_3.png) no-repeat center top;
+  background: url("prof_img_3.png") no-repeat center top;
 }
 .f_box_3 .txt {
   width: 55%;
@@ -1565,11 +1565,11 @@ footer .f_link a {
 }
 
 .s_hdr1 {
-  background: url(../img/s_hdr_1.png) no-repeat center top;
+  background: url("s_hdr_1.png") no-repeat center top;
 }
 
 .s_hdr2 {
-  background: url(../img/s_hdr_2.png) no-repeat center top;
+  background: url("s_hdr_2.png") no-repeat center top;
 }
 
 .cta_btn img {
@@ -1658,7 +1658,7 @@ footer .f_link a {
 }
 /* 
 .header {
-  background: url("../img/bg_header.png") no-repeat center top;
+  background: url("bg_header.png") no-repeat center top;
   padding: 45px 0 0;
   height: 228px;
   margin-bottom: -62px;
@@ -1675,14 +1675,14 @@ footer .f_link a {
 
 
 .sec_1{
-  background: url("../img/bg_1.jpg") no-repeat center top;
+  background: url("bg_1.jpg") no-repeat center top;
   /* padding-top: 25px; */
   background-color: #fff;
 }
 
 .sec_2 {
   padding-top: 30px;
-  /* background: url("../img/bg_2.png") no-repeat center top, #f0efe6; */
+  /* background: url("bg_2.png") no-repeat center top, #f0efe6; */
   background-color: #fff;
 }
 @media screen and (max-width: 767px) {
@@ -1700,7 +1700,7 @@ footer .f_link a {
 }
 
 .sec_cta {
-  background: url("../img/bg_cta.png") no-repeat center top;
+  background: url("bg_cta.png") no-repeat center top;
   margin-top: -41px;
   margin-bottom: -38px;
   padding: 90px 0 85px;
